@@ -1,0 +1,15 @@
+﻿  OpenGL.cpp
+C:\Users\wns1d\source\repos\OpenGL\OpenGL\OpenGL.cpp(9,2): error C2065: 'GLFWwindow': 선언되지 않은 식별자입니다.
+C:\Users\wns1d\source\repos\OpenGL\OpenGL\OpenGL.cpp(9,14): error C2065: 'window': 선언되지 않은 식별자입니다.
+C:\Users\wns1d\source\repos\OpenGL\OpenGL\OpenGL.cpp(11,7): error C3861: 'glfwInit': 식별자를 찾을 수 없습니다.
+C:\Users\wns1d\source\repos\OpenGL\OpenGL\OpenGL.cpp(14,2): error C2065: 'window': 선언되지 않은 식별자입니다.
+C:\Users\wns1d\source\repos\OpenGL\OpenGL\OpenGL.cpp(14,11): error C3861: 'glfwCreateWindow': 식별자를 찾을 수 없습니다.
+C:\Users\wns1d\source\repos\OpenGL\OpenGL\OpenGL.cpp(15,7): error C2065: 'window': 선언되지 않은 식별자입니다.
+C:\Users\wns1d\source\repos\OpenGL\OpenGL\OpenGL.cpp(17,3): error C3861: 'glfwTerminate': 식별자를 찾을 수 없습니다.
+C:\Users\wns1d\source\repos\OpenGL\OpenGL\OpenGL.cpp(21,25): error C2065: 'window': 선언되지 않은 식별자입니다.
+C:\Users\wns1d\source\repos\OpenGL\OpenGL\OpenGL.cpp(21,2): error C3861: 'glfwMakeContextCurrent': 식별자를 찾을 수 없습니다.
+C:\Users\wns1d\source\repos\OpenGL\OpenGL\OpenGL.cpp(28,32): error C2065: 'window': 선언되지 않은 식별자입니다.
+C:\Users\wns1d\source\repos\OpenGL\OpenGL\OpenGL.cpp(28,10): error C3861: 'glfwWindowShouldClose': 식별자를 찾을 수 없습니다.
+C:\Users\wns1d\source\repos\OpenGL\OpenGL\OpenGL.cpp(32,19): error C2065: 'window': 선언되지 않은 식별자입니다.
+C:\Users\wns1d\source\repos\OpenGL\OpenGL\OpenGL.cpp(32,3): error C3861: 'glfwSwapBuffers': 식별자를 찾을 수 없습니다.
+C:\Users\wns1d\source\repos\OpenGL\OpenGL\OpenGL.cpp(34,3): error C3861: 'glfwPollEvents': 식별자를 찾을 수 없습니다.
