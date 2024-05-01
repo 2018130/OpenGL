@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{96202F04-2548-44C2-AFEC-2A138D58DD9F}|OpenGL\\OpenGL.vcxproj|C:\\Users\\wns1d\\source\\repos\\OpenGL\\OpenGL\\OpenGL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{96202F04-2548-44C2-AFEC-2A138D58DD9F}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\OpenGL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wns1d\\source\\repos\\OpenGL\\Dependencies\\include\\GLFW\\glfw3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dependencies\\include\\GLFW\\glfw3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "glfw3.h",
-              "DocumentMoniker": "C:\\Users\\wns1d\\source\\repos\\OpenGL\\Dependencies\\include\\GLFW\\glfw3.h",
-              "RelativeDocumentMoniker": "Dependencies\\include\\GLFW\\glfw3.h",
-              "ToolTip": "C:\\Users\\wns1d\\source\\repos\\OpenGL\\Dependencies\\include\\GLFW\\glfw3.h",
-              "RelativeToolTip": "Dependencies\\include\\GLFW\\glfw3.h",
-              "ViewState": "AQIAAI4MAAAAAAAAAAAcwJ4MAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-30T01:35:34.763Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,7 +24,7 @@
               "RelativeDocumentMoniker": "OpenGL\\OpenGL.cpp",
               "ToolTip": "C:\\Users\\wns1d\\source\\repos\\OpenGL\\OpenGL\\OpenGL.cpp",
               "RelativeToolTip": "OpenGL\\OpenGL.cpp",
-              "ViewState": "AQIAABsAAAAAAAAAAAAuwDYAAAABAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAB8AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-29T05:48:19.876Z",
               "EditorCaption": ""
